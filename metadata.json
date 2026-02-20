@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI Multi-Modal Platform",
+  "description": "A production-grade AI platform for Vision, NLP, and Tabular data analysis using Gemini Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
